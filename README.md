@@ -1,5 +1,5 @@
 # Check-github-followers
-Check if the users you are following, are following you back
+Check if the users you are following, are following you back<br>
 Verifique se os usuários que você está seguindo, estão seguindo você de volta.
 
 ## How to use
